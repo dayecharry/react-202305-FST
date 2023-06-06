@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+
+
+.rojo{
+  background-color: red;
+}
+.azul{
+  background-color: blue;;
+}
+.background{
+  width: 200px;
+}
+
+/*
+componente formulario, 
+ 2 input --> input  deberia ser un componente, prop: placeholder, valor para un label
+ 1 boton-->  reutilizar el componente
+
+
+ usar el componente formulario dentro de app
+*/
