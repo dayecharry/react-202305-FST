@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "refresco",
+        "precio": 3,
+        "stock": 50
+    },
+    {
+        "nombre": "Chocolate",
+        "precio": 5,
+        "stock": 150
+    },
+    {
+        "nombre": "Pan",
+        "precio": 4,
+        "stock": 10
+    }
+]
