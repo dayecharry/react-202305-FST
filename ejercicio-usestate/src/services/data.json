@@ -2,16 +2,31 @@
     {
         "nombre": "refresco",
         "precio": 3,
-        "stock": 50
+        "stock": 50,
+        "categoria": "bebida"
+    },
+    {
+        "nombre": "fanta",
+        "precio": 3,
+        "stock": 50,
+        "categoria": "bebida"
     },
     {
         "nombre": "Chocolate",
         "precio": 5,
-        "stock": 150
+        "stock": 150,
+        "categoria": "chuches"
     },
     {
         "nombre": "Pan",
         "precio": 4,
-        "stock": 10
+        "stock": 10,
+        "categoria": "gluten"
+    },
+    {
+        "nombre": "pasta",
+        "precio": 4,
+        "stock": 10,
+        "categoria": "gluten"
     }
 ]

@@ -1,13 +1,16 @@
-function Filter({ handleFilter }) {
+import FilterByCategory from "./FilterByCategory/FilterByCategory"
+import FilterByName from "./FilterByName/FilterByName"
+
+function Filter({ handleFilter, handleCategory }) {
 
 
-    const handleChange = (event) => {
-        handleFilter(event.target.value)
-    }
 
     return (
         <form>
-            <input type="text" onKeyUp={handleChange} />
+
+            <FilterByName handleFilter={handleFilter} />
+            <FilterByCategory handleCategory={handleCategory} />
+
         </form>
     )
 }
