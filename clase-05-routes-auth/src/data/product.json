@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "id": "p0",
+            "name": "Node JS",
+            "price": 16,
+            "imageUrl": "https://rlv.zcache.es/camiseta_de_node_js-r24e9b2034cb848e498c4603104d2c89d_k2gm8_644.jpg",
+            "description": "Camiseta de Node JS",
+            "sizes": [
+                "s",
+                "l",
+                "xl"
+            ]
+        },
+        {
+            "id": "p1",
+            "name": "JavaScript",
+            "price": 15,
+            "imageUrl": "https://ih1.redbubble.net/image.658039795.6362/ssrco,classic_tee,womens,101010:01c5ca27c6,front_alt,square_product,600x600.u3.jpg",
+            "description": "Camiseta de JavaScript",
+            "sizes": [
+                "l",
+                "xl",
+                "xxl"
+            ]
+        },
+        {
+            "id": "p2",
+            "name": "React JS",
+            "price": 13,
+            "imageUrl": "https://ih1.redbubble.net/image.3944680578.9848/ssrco,classic_tee,womens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg",
+            "description": "Camiseta de React JS",
+            "sizes": [
+                "s",
+                "m",
+                "l"
+            ]
+        }
+    ]
+}
